@@ -1,0 +1,17 @@
+{
+  "name": "steam-idler",
+  "version": "1.3.7",
+  "description": "Steam Idle in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "devStart": "nodemon ."
+  },
+  "keywords": [],
+  "author": "0xAndrewBlack",
+  "license": "ISC",
+  "dependencies": {
+    "promptly": "^3.0.3",
+    "steam-user": "^4.16.2"
+  }
+}
